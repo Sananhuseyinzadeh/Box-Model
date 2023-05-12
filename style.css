@@ -1,0 +1,104 @@
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+    padding: 14rem 0 14rem;
+    background-position: center;
+    background-size: cover;
+}
+
+.first h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+.first p{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.first a{
+    color: #fff;
+    background-color: orange;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 20px 40px;
+
+}
+
+.second{
+    text-align: center;
+    background-color: rgb(255, 167, 3);
+    padding: 10rem 10rem;
+}
+
+.second h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+.second p{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.second a{
+    color: #000;
+    background-color: #fff;
+    border-radius: 30px;
+    font-size: 10px;
+    padding: 30px 40px;
+}
+
+.third{
+    text-align: center;
+    padding: 15rem 15rem;
+}
+
+.third h1{
+    margin-bottom: 50px;
+}
+
+.third .box{
+    width: 18%;
+    float: left;
+    margin: 0 calc(20%/8);
+}
+
+.third .box h1{
+    width: 100%;
+}
+
+.forth .box{
+    width: calc(100%/3);
+    float: left;
+}
+
+.forth .box img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.fifth{
+    text-align: center;
+    background-color: #343a40;
+    padding: 10rem 10rem;
+}
+
+.fifth h1{
+    color: #fff;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.fifth a{
+    color: #000;
+    background-color: #fff;
+    border-radius: 40px;
+    font-size: 10px;
+    padding: 30px 40px;
+}
+
